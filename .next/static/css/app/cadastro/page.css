@@ -1,0 +1,92 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/page.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+.page_div__Gml3J {
+  background-color: rgb(229, 229, 229);
+  width: 300px;
+  height: 330px;
+  color: black;
+  border-radius: 12px;
+  font-family: helvetica;
+  text-align: center;
+  padding-top: 30px;
+  margin-left: 42%;
+  margin-top: 70px;
+}
+.page_div__Gml3J h1{
+  margin-bottom: 10px;
+}
+.page_div__Gml3J input{
+  border: none;
+  background-color: rgb(255, 255, 255);
+  border-radius: 12px;
+  margin: 14px;
+  padding: 8px;
+  width: 90%;
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+}
+.page_div__Gml3J button{
+  border-radius: 12px;
+  padding: 12px;
+  color: white;
+  background-color: rgb(17, 17, 124);
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top: 14px;
+}
+
+.page_body__Ks1Bt{
+  background-color: rgb(57, 57, 57);
+  height: 919px;
+  width: 100%;
+  
+}
+
+.page_aluno__mOTYa{
+  background-color: white;
+  width: 270px;
+  height: 130px;
+  color: black;
+  margin: 50px;
+  text-align: center;
+  font-family: helvetica;
+  font-size: 20px;
+  border-radius: 12px;
+  padding: 10px;
+}
+.page_aluno__mOTYa p{
+  margin: 4px;
+}
+.page_aluno__mOTYa button{
+  border-radius: 12px;
+  padding: 12px;
+  color: white;
+  background-color: rgb(17, 17, 124);
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top: 14px;
+}
+
+.page_page__8gj19{
+  display: flex;
+}
+.page_body__Ks1Bt h3{
+  width: 100%;
+  font-family: helvetica;
+  font-size: 25px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.page_teste__glv6q{
+  color: rgb(57, 57, 57);
+}

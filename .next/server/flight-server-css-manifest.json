@@ -1,0 +1,24 @@
+{
+  "cssImports": {
+    "E:\\PTAC-3\\sala\\src\\app\\page.js": [
+      "E:\\PTAC-3\\sala\\src\\app\\page.module.css"
+    ],
+    "E:\\PTAC-3\\sala\\src\\app\\layout.js": [
+      "E:\\PTAC-3\\sala\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "E:\\PTAC-3\\sala\\src\\app\\globals.css"
+    ],
+    "E:\\PTAC-3\\sala\\src\\app\\cadastro\\page.js": [
+      "E:\\PTAC-3\\sala\\src\\app\\page.module.css"
+    ]
+  },
+  "cssModules": {
+    "E:\\PTAC-3\\sala\\src\\app\\page": [
+      "E:\\PTAC-3\\sala\\src\\app\\globals.css",
+      "E:\\PTAC-3\\sala\\src\\app\\page.module.css"
+    ],
+    "E:\\PTAC-3\\sala\\src\\app\\cadastro\\page": [
+      "E:\\PTAC-3\\sala\\src\\app\\globals.css",
+      "E:\\PTAC-3\\sala\\src\\app\\page.module.css"
+    ]
+  }
+}
